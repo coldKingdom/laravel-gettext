@@ -1,5 +1,5 @@
 {
-    "name": "coldkingdom/gettext",
+    "name": "coldkingdom/laravel-gettext",
     "description": "Adds localization support to laravel applications with PoEdit and Gettext",
     "keywords": ["php", "laravel", "gettext", "laravel-gettext", "poedit", "localization", "translation"],
     "license": "GPL-2.0",
